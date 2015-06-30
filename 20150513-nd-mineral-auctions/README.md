@@ -9,4 +9,5 @@ For each auction, the Department reports the total number of mineral acres lease
 In our analysis, we used the bonus per acre figure to track the avergae amount companies paid the state of North Dakota for the right to drill between 2005 and 2015. 
 
 `bonus-per-acre`  - Average amount companies paid to sign oil and gas leases in North Dakota
+
 `auction-month-year` - Month and year in which the auction occurred
