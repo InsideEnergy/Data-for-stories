@@ -6,7 +6,7 @@ Source: [North Dakota Department of Minerals Management](https://land.nd.gov/min
 
 For each auction, the Department reports the total number of mineral acres leased by oil and gas companies, the total bonus companies paid to the state during the auction, and the resulting average bonus per acre.
 
-In our analysis, we used the bonus per acre figure to track the avergae amount companies paid the state of North Dakota for the right to drill between 2005 and 2015. 
+In our analysis, we used the bonus per acre figure to track the average amount companies paid the state of North Dakota for the right to drill between 2005 and 2015. 
 
 `bonus-per-acre`  - Average amount companies paid to sign oil and gas leases in North Dakota
 
