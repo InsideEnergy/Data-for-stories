@@ -2,7 +2,8 @@
 
 This is the raw data behind the story [Amidst Low Prices, North Dakota Scrambles To Change Oil Tax Rate](http://insideenergy.org/2015/04/30/amidst-low-prices-north-dakota-scrambles-to-change-oil-tax-rate/)
 
-Source for data: [Annual Survey of State Government Tax Collections](http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk)
+Source for data: [Annual Survey of State Government Tax Collections](http://www.census.gov/govs/statetax/)
+
 Source for top 10 oil producing states: [U.S. Energy Information Administration](http://www.eia.gov/state/rankings/?sid=US#/series/46)
 
 `taxes-collected`: total tax revenue for each state
