@@ -2,6 +2,8 @@
 
 This repo contains all datasets used in Inside Energy's stories, except for major projects. To see data used in our major projects, please [visit our main page](https://github.com/InsideEnergy).
 
+If you have questions, comments, or (especially) suggestions about how to make our repository better or about how we can improve our transparency, please contact Jordan Wirfs-Brock, at JordanWirfs-Brock@rmpbs.org.
+
 Date | Story Title | Folder
 ---------|-----|-----
 May 13, 2015 | [Low Oil Prices And The Surprisingly Exciting World Of Mineral Auctions](http://insideenergy.org/2015/05/13/low-oil-prices-and-the-surprisingly-exciting-world-of-mineral-auctions/) | `20150513-nd-mineral-auctions`
