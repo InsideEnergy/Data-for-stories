@@ -4,7 +4,7 @@ Total technically recoverable and proved reserves from 1996-2011.
 
 ### What's in this folder?
 
-This is the raw data (and code if applicable) used in the Inside Energy story [IE Questions: What Are “Unproved” Reserves And Why Should You Care?](http://insideenergy.org/2014/12/22/ie-questions-what-are-unproved-reserves-and-why-should-you-care/)
+This is the raw data used in the Inside Energy story [IE Questions: What Are “Unproved” Reserves And Why Should You Care?](http://insideenergy.org/2014/12/22/ie-questions-what-are-unproved-reserves-and-why-should-you-care/)
 
 ### Where does this data come from?
 

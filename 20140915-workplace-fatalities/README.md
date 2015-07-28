@@ -4,7 +4,7 @@ Worker fatality data in oil and gas, construction, fishing/hunting/trapping and 
 
 ### What's in this folder?
 
-This is the raw data (and code if applicable) used in the Inside Energy story [America’s Most Dangerous Jobs](http://insideenergy.org/2014/09/15/deadliest-catch/)
+This is the raw data used in the Inside Energy story [America’s Most Dangerous Jobs](http://insideenergy.org/2014/09/15/deadliest-catch/)
 
 ### Where does this data come from?
 
