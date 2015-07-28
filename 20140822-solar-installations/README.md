@@ -1,9 +1,9 @@
 # Rooftop Solar Prices and Installations, iPod Prices and Sales
 
-iPod price from 2001-2008 (*coming soon*)
-iPod sales from 2001-2008 (*coming soon*)
-Price of rooftop solar installations from 1998-2012
-Rooftop solar installations from 1998-2012 (*coming soon*)
+* iPod price from 2001-2008 (*coming soon*)
+* iPod sales from 2001-2008 (*coming soon*)
+* Price of rooftop solar installations from 1998-2012
+* Rooftop solar installations from 1998-2012 (*coming soon*)
 
 ### What's in this folder?
 
