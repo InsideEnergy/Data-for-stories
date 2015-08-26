@@ -7,7 +7,7 @@ This repository includes the data used for the graphics in the Inside Energy sto
 
 ## Data dictionary
 
-The data includes the following information, as of August 14, 2015, for the major U.S. coal basins:
+The data files *coal-basins-snapshot.csv* and *coal-basins-snapshot.xlsx* include the following information, as of August 14, 2015, for the major U.S. coal basins:
 * *Basin* is the name of the coal basin (Powder River, Uinta, Illinis, Central and Northern Appalachia)
 * *price-per-ton-dollars* is the price, in dollars, for a ton of coal from that basin. Note from the EIA: "Coal prices shown are for a relatively high-Btu coal selected in each region, for delivery in the "prompt quarter." The prompt quarter is the quarter following the current quarter. For example, from January through March, the 2nd quarter is the prompt quarter."
 * *Btu-per-pound* is the amount of energy, in Btu, in a typical pound of coal from that basin.
