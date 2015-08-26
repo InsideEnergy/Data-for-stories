@@ -10,6 +10,7 @@ If you have questions, comments, or (especially) suggestions about how to make o
 
 Date | Story Title | Folder
 ---------|-----|-----
+August 24, 2015 | [To Mine Or Not To Mine? Is That The Question?](http://insideenergy.org/2015/08/24/to-mine-or-not-to-mine-is-that-the-question/) | `20150824-coal-basins-snapshot`
 August 8, 2015 | [IE Questions: Do I Use More Gas In My Car With My A/C On Or My Windows Down?](http://insideenergy.org/2015/08/11/ie-questions-do-i-use-more-gas-in-my-car-with-my-ac-on-or-my-windows-down) | `20150811-fuel-use-AC`
 August 3, 2015 | [The Clean Power Plan: Colorado, Wyoming And North Dakota](http://insideenergy.org/2015/08/03/obamas-clean-power-plan-visualized/) | `20150803-CPP-final-rule`
 May 13, 2015 | [Low Oil Prices And The Surprisingly Exciting World Of Mineral Auctions](http://insideenergy.org/2015/05/13/low-oil-prices-and-the-surprisingly-exciting-world-of-mineral-auctions/) | `20150513-nd-mineral-auctions`
