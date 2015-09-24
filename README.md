@@ -10,6 +10,7 @@ If you have questions, comments, or (especially) suggestions about how to make o
 
 Date | Story Title | Folder
 ---------|-----|-----
+September 23, 2015 | [Hacking The Grid: Rural Colorado And The Realities Of Cybersecurity](http://insideenergy.org/2015/09/23/hacking-the-grid-rural-colorado-and-the-realities-of-cybersecurity/) | `20150923-grid-cybersecurity`
 August 24, 2015 | [To Mine Or Not To Mine? Is That The Question?](http://insideenergy.org/2015/08/24/to-mine-or-not-to-mine-is-that-the-question/) | `20150824-coal-basins-snapshot`
 August 17, 2015 | [Wyoming Town Built On Coal Contemplates Its Future](http://insideenergy.org/2015/08/17/wyoming-town-built-on-coal-contemplates-its-future/) | `20150817-coal-employment-BLS`
 August 8, 2015 | [IE Questions: Do I Use More Gas In My Car With My A/C On Or My Windows Down?](http://insideenergy.org/2015/08/11/ie-questions-do-i-use-more-gas-in-my-car-with-my-ac-on-or-my-windows-down) | `20150811-fuel-use-AC`
