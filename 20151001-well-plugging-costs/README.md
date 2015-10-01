@@ -1,5 +1,5 @@
 # The Cost of Cleaning Up After Oil And Gas: Data on Well Depth and Well-Plugging Projects in Wyoming
-This repository contains the data and code we used to do the analysis and graphics in the post ("TK Headline"](TK Link), as well as additional data notes. We will be adding to this repository, so check back for more soon. 
+This repository contains the data and code we used to do the analysis and graphics in the post ["The Rising Cost Of Cleaning Up After Oil And Gas"](http://insideenergy.org/2015/10/01/the-rising-cost-of-cleaning-up-after-oil-and-gas/), as well as additional data notes. We will be adding to this repository, so check back for more soon. 
 
 ## How did we estimate the cost to clean up Wyoming's newest wells that may potentially become orphaned?
 
