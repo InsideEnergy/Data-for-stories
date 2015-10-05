@@ -1,6 +1,10 @@
 # The Cost of Cleaning Up After Oil And Gas: Data on Well Depth and Well-Plugging Projects in Wyoming
 This repository contains the data and code we used to do the analysis and graphics in the post ["The Rising Cost Of Cleaning Up After Oil And Gas"](http://insideenergy.org/2015/10/01/the-rising-cost-of-cleaning-up-after-oil-and-gas/), as well as additional data notes. We will be adding to this repository, so check back for more soon. 
 
+## What's in this repository?
+* Excel files, from the Wyoming Oil and Gas Conservation Commission, that include information about well-plugging projects from 1997 through August, 2015. These files include information about the number of wells plugged, the total project cost, the total well depth, and the bonding amount. WOGCC provided this information in two different files, 1997 through the first half of 2014 (which is in the "Plugged_1997_2014" sheet in the file *WY_Plugged_Wells_Cost.xlsx*), and the second half of 2014 through August 2014 (which is in the "Plugged_2014_Present" sheet in the file *WY_Plugged_Wells_Cost.xlsx*).
+* The binned well count, by average total cost and average per foot cost, for well projects plugged between 1997 and 2014, that Inside Energy calculated in order to make [these histogram](http://1m5rjm4bgenp2600za110opvl3h.wpengine.netdna-cdn.com/files/2015/10/Cost_PerWell_PerFoot.png). To come up with this count, we took the number of wells in each project and the average cost for that project, and created a master-list of wells plugged. Then, we used bins of $10,000 for the total well cost and $2/foot for the per foot cost. The binned average total cost is in the file *Binned_Total_Average_Well_Cost_1007_2014.csv*. The binned average per foot cost is in the file *Binned_Cost_Per_Foot_1997_2014.csv*. Alternatively, these are available as individual sheets in the Excel file, *WY_Per_Well_Costs_Binned.xlsx*.
+
 ## How did we estimate the cost to clean up Wyoming's newest wells that may potentially become orphaned?
 
 Here's our basic methodology. The scripts we used (in the form of an IPython/Jupyter notebook) are coming soon.
