@@ -10,6 +10,7 @@ If you have questions, comments, or (especially) suggestions about how to make o
 
 Date | Story Title | Folder
 ---------|-----|-----
+October 1, 2015 | [The Rising Cost Of Cleaning Up After Oil And Gas](http://insideenergy.org/2015/10/01/the-rising-cost-of-cleaning-up-after-oil-and-gas/) | `20151001-well-plugging-costs`
 September 23, 2015 | [Hacking The Grid: Rural Colorado And The Realities Of Cybersecurity](http://insideenergy.org/2015/09/23/hacking-the-grid-rural-colorado-and-the-realities-of-cybersecurity/) | `20150923-grid-cybersecurity`
 August 24, 2015 | [To Mine Or Not To Mine? Is That The Question?](http://insideenergy.org/2015/08/24/to-mine-or-not-to-mine-is-that-the-question/) | `20150824-coal-basins-snapshot`
 August 17, 2015 | [Wyoming Town Built On Coal Contemplates Its Future](http://insideenergy.org/2015/08/17/wyoming-town-built-on-coal-contemplates-its-future/) | `20150817-coal-employment-BLS`
