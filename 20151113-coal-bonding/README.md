@@ -1,5 +1,5 @@
 # U.S. Coal Bonding
-Basic data about clean-up/reclamation obligations (bonding) for the top 10 U.S. coal-producing states, including: current bond amounts and portion that are self-bonded, 2014 coal production, state bonding laws, acres disturbed from coal mining. It also includes bond-release maps from the Colowyo mine in Colorado.
+Basic data about clean-up/reclamation obligations (bonding) for the top 10 U.S. coal-producing states, including: current bond amounts and portion that are self-bonded, 2014 coal production, state bonding laws, acres disturbed from coal mining.
 
 ## What's in this repository?
 
