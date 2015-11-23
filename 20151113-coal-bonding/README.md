@@ -34,6 +34,6 @@ Data on coal production is from the Energy Information Administration.
 
 ## Notes
 
-Illinois coal bonding obligation data is forthcoming.
+After initially publishing this chart, West Virginia contacted us to let us know they originally sent bond obligations for active mines, as opposed to active bonds (which could apply to mines where mining operations had stopped but clean-up and reclamation activities continue). West Virginia has provided us with the appropriate data, and we have updated it in the tables here and in the chart in the original article.
 
 
