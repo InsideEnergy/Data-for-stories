@@ -10,6 +10,7 @@ If you have questions, comments, or (especially) suggestions about how to make o
 
 Date | Story Title | Folder
 ---------|-----|-----
+December 9, 2015 | [Quiz: How Much Energy Does It Take To Make Your Food?](http://insideenergy.org/2015/12/08/quiz-how-much-energy-does-it-take-to-make-your-food/) | `20151208-food-energy`
 November 14, 2015 | [In Coal Country, No Cash In Hand For Billions In Cleanup](http://insideenergy.org/2015/11/14/in-coal-county-no-cash-in-hand-for-billions-in-cleanup/) | `20151113-coal-bonding`
 October 1, 2015 | [The Rising Cost Of Cleaning Up After Oil And Gas](http://insideenergy.org/2015/10/01/the-rising-cost-of-cleaning-up-after-oil-and-gas/) | `20151001-well-plugging-costs`
 September 23, 2015 | [Hacking The Grid: Rural Colorado And The Realities Of Cybersecurity](http://insideenergy.org/2015/09/23/hacking-the-grid-rural-colorado-and-the-realities-of-cybersecurity/) | `20150923-grid-cybersecurity`
