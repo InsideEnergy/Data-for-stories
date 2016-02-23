@@ -16,6 +16,9 @@ The data files *tx-flsa-20102015-classified.csv*, *tx-flsa-20102015-classified.x
 * *oil_gas* is a classification we the company involved in each suit: y = oil and gas; n = not oil and gas; m = ambiguous
 * *company_name* is the name of company involved in the suit
 
+The data files *tx-flsa-summary_2010_2015.csv*, *ttx-flsa-summary_2010_2015.xlsx*, *co-flsa-summary_2010_2015.csv* and *co-flsa-summary_2010_2015.xlsx* include summary number for how many lawsuits (ambiguous, not oil and gas, oil and gas, and all suits) were filed in each year in Texas and in Colorado:
+
+
 ## Data Sources
 
 Inside Energy downloaded from [PACER](http://www.pacer.gov) (login required to access case search):
@@ -26,7 +29,7 @@ Inside Energy downloaded from [PACER](http://www.pacer.gov) (login required to a
 
 Inside Energy determined whether companies involved in the FLSA lawsuits were oil and gas companies, not oil and gas companies, or ambiguous. 
 
-For Colorado, which had 440 FLSA lawsuits, Inside Energy staff examined each company (defendant) name. This process included flagging known oil and gas companies and doing web searches.
+For Colorado, which had 434 FLSA lawsuits, Inside Energy staff examined each company (defendant) name. This process included flagging known oil and gas companies and doing web searches.
 
 For Texas, which had nearly 5,000 FLSA lawsuits, we first used Mechanical Turk to classify 500 companies, which Inside Energy staff examined for accuracy. Next, we used a search algorithm (code and notes [here](https://github.com/InsideEnergy/TX-flsa-lawsuits)) to classify companies by keyword. Finally, Inside Energy staff examined the remaining company names via web searches.
 
