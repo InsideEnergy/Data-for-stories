@@ -8,8 +8,9 @@ This repo contains all datasets used in Inside Energy's stories, except for majo
 
 If you have questions, comments, or (especially) suggestions about how to make our repository better or about how we can improve our transparency, please contact Jordan Wirfs-Brock, at JordanWirfs-Brock@rmpbs.org.
 
-Date | Story Title | Folder
+Date | Story Title | GitHub Folder
 ---------|-----|-----
+February 23, 2016 | [Wage Theft Claims Surge As Oil Prices Fall](http://insideenergy.org/2016/02/22/wage-theft-claims-surge-as-oil-prices-fall/) | [`20160223-wage-theft`](/20160223-wage-theft)
 December 9, 2015 | [Quiz: How Much Energy Does It Take To Make Your Food?](http://insideenergy.org/2015/12/08/quiz-how-much-energy-does-it-take-to-make-your-food/) | `20151208-food-energy`
 November 14, 2015 | [In Coal Country, No Cash In Hand For Billions In Cleanup](http://insideenergy.org/2015/11/14/in-coal-county-no-cash-in-hand-for-billions-in-cleanup/) | `20151113-coal-bonding`
 October 1, 2015 | [The Rising Cost Of Cleaning Up After Oil And Gas](http://insideenergy.org/2015/10/01/the-rising-cost-of-cleaning-up-after-oil-and-gas/) | `20151001-well-plugging-costs`
