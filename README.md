@@ -10,6 +10,7 @@ If you have questions, comments, or (especially) suggestions about how to make o
 
 Date | Story Title | GitHub Folder
 ---------|-----|-----
+April 29, 2016 | [IE Questions: What Size Wind Generator Does And Average House Need?](ie-questions-what-size-wind-generator-does-an-average-house-need) | [`20160429-small-wind-capacity`](/20160429-small-wind-capacity)
 February 23, 2016 | [Wage Theft Claims Surge As Oil Prices Fall](http://insideenergy.org/2016/02/22/wage-theft-claims-surge-as-oil-prices-fall/) | [`20160223-wage-theft`](/20160223-wage-theft)
 December 9, 2015 | [Quiz: How Much Energy Does It Take To Make Your Food?](http://insideenergy.org/2015/12/08/quiz-how-much-energy-does-it-take-to-make-your-food/) | [`20151208-food-energy`](/20151208-food-energy)
 November 14, 2015 | [In Coal Country, No Cash In Hand For Billions In Cleanup](http://insideenergy.org/2015/11/14/in-coal-county-no-cash-in-hand-for-billions-in-cleanup/) | [`20151113-coal-bonding`](/20151113-coal-bonding)
