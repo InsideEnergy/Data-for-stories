@@ -3,7 +3,7 @@ Data and notes on energy assistance available from the federal government's Low 
 
 ## What's in this repository?
 
-This repository includes the data used in the story, ["High Utility Costs Force Hard Decisions"](URL).
+This repository includes the data used in the story, ["High Utility Costs Force Hard Decisions"](http://insideenergy.org/2016/05/08/high-utility-costs-force-hard-decisions-for-the-poor/).
 
 The data files *state_energy_assistance_shortfall.csv* and *state_energy_assistance_shortfall.xlsx* contain annual data for 2012 to 2015, by state, on the energy bill need, the number of low-income households, the LIHEAP funds allocated, the gap between the needs and the funds (total), and the average household gap:
 * *YYYY_Need* -  Is the state energy bill shortfall, as defined by how much low-income families have to pay, annually, over 6% of their incomes on energy. (See notes below.)
