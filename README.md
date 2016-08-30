@@ -10,6 +10,7 @@ If you have questions, comments, or (especially) suggestions about how to make o
 
 Date | Story Title | GitHub Folder
 ---------|-----|-----
+August 30, 2016 | [IE Questions: Is A Petroleum Engineering Degree A Good Idea?](http://insideenergy.org/2016/08/29/ie-questions-is-a-petroleum-engineering-degree-a-good-idea) | [`20160830-oil-prices-and-jobs`](/20160830-oil-prices-and-jobs)
 May 26, 2016 | [How Much Should You Spend On Energy? Answering Your Questions](http://insideenergy.org/2016/05/24/how-much-should-you-spend-on-energy-answering-your-questions/) | [`20160525-liheap-state-proportions`](/20160525-liheap-state-proportions)
 May 3, 2016 | [Listen To U.S. Coal Production Fall Off A Cliff](http://insideenergy.org/2016/05/03/listen-to-u-s-coal-production-fall-off-a-cliff/) | [`20160503-coal-production-sonification`](/20160503-coal-production-sonification)
 April 29, 2016 | [IE Questions: What Size Wind Generator Does And Average House Need?](ie-questions-what-size-wind-generator-does-an-average-house-need) | [`20160429-small-wind-capacity`](/20160429-small-wind-capacity)
