@@ -4,7 +4,7 @@
 
 In this repository, you’ll find information about the data sources, relevant notes about the data, and links to downloads of the shape files (where available). You’ll also find a PDF version of the printable data companion, as well as standalone images of each of the data vignettes.
 
-* PDF of the full map booklet - BSR-data-companion.pdf [48 MB]
+* PDF of the full map booklet - `BSR-data-companion.pdf` [48 MB]
 * Images of the individual data vignettes in print quality (300 dpi) and web quality (72 dpi):
 	* National Map: Tribal Lands Over Time and Fossil Fuels - `BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-print.jpg` and `BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-web.jpg`
 	* Standing Rock Sioux and Dakota Access Pipeline - `DAPL_Aerial-Map-JWirfs-Brock-print.jpg` and `DAPL_Aerial-Map-JWirfs-Brock-web.jpg`
@@ -13,7 +13,7 @@ In this repository, you’ll find information about the data sources, relevant n
 
 
 ## How to print and fold your own map booklet
-1. Download the PDF file
+1. Download the [BSR-data-companion.pdf](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/BSR-data-companion.pdf) file - warning, it's 48 MB, so a bit large!
 2. The maps work best when printed in full color on 11”x17” paper/tabloid size (you can also scale to 8 ½”x11” paper)
 3. Print the map using a double-sided setting
 4. First, fold long-wise, with the “Beyond Standing Rock” cover on the outside
@@ -27,9 +27,9 @@ Like this:
 ## National map: Tribal lands and fossil fuel reserves
 
 ### Data source for historical map:
-* Shape files of **historical Indian lands** are from Claudio Saunt of the University of Georgia, adapted from the ehistory.org project, “The Invasion of America” and used with permission. View an interactive map of the tribal lands over time here, or a video here.
+* Shape files of **historical Indian lands** are from Claudio Saunt of the University of Georgia, adapted from the ehistory.org project, [“The Invasion of America”](http://invasionofamerica.ehistory.org/) and used with permission. View an interactive map of the tribal lands over time here, or a video here.
 
-### Data sources for current map:
+### Data sources for present-day map:
 * **Indian reservations and areas** are from the U.S. Census Bureau’s TIGER/Line files, [American Indian/Alaska Native/Native Hawaiian Areas](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2016&layergroup=American+Indian+Area+Geography), 2016. These are the legal and statistical areas for which the U.S. Census Bureau provides data, and are outlined in detail [here](https://www.census.gov/geo/reference/gtc/gtc_aiannha.html). Note that these include reservations as well as other types of designated tribal areas, such as the Tribal Statistical Areas in Oklahoma, which are the site of a former reservation. This does not show land ownership (which can vary within these geographies) or mineral rights. Ownership and management of lands and natural resources are a complex patchwork, as you can see in the Southern Ute map.
 * **Coal fields** of the U.S. data is from the U.S. Geological Survey (USGS). More information is available [here](https://pubs.usgs.gov/of/1996/of96-092/arcview_files/) and you can download PDF version of the coal fields map [here](https://pubs.usgs.gov/of/1996/of96-092/other_files/us_coal.pdf).
 * **U.S. tight oil shale and gas plays** (for the lower 48 states) data is from the [U.S. Energy Information Administration](https://www.eia.gov/maps/layer_info-m.php).
