@@ -20,7 +20,7 @@ In this repository, you’ll find information about the data sources, relevant n
 
 Like this:
 
-![map folding gif](/http://insideenergy.org/wp-content/uploads//2017/02/map-folding.gif)
+![map folding gif](http://insideenergy.org/wp-content/uploads//2017/02/map-folding.gif)
 
 ## National map: Tribal lands and fossil fuel reserves
 
