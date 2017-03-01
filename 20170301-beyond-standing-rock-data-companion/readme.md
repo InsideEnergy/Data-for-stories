@@ -1,4 +1,4 @@
-# A Data Compaion to *Beyond Standing Rock*
+# A Data Companion to *Beyond Standing Rock*
 
 "A Data Companion to *Beyond Standing Rock*" illuminates the intersection of geography, energy development and tribal sovereignty in the United States through a series of maps. 
 
