@@ -6,10 +6,10 @@ In this repository, you’ll find information about the data sources, relevant n
 
 * PDF of the full map booklet - `BSR-data-companion.pdf` [48 MB]
 * Images of the individual data vignettes in print quality (300 dpi) and web quality (72 dpi):
-	* National Map: Tribal Lands Over Time and Fossil Fuels - `BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-print.jpg` and `BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-web.jpg`
-	* Standing Rock Sioux and Dakota Access Pipeline - `DAPL_Aerial-Map-JWirfs-Brock-print.jpg` and `DAPL_Aerial-Map-JWirfs-Brock-web.jpg`
-	* Southern Ute and Oil and Gas Development - `SouthernUte-Energy-Land-Map-JWirfs-Brock-print.jpg` and `SouthernUte-Energy-Land-Map-JWirfs-Brock-print.jpg`
-	* Bears Ears National Monument - `BearsEars_Energy-Resources-Map-JWirfs-Brock-print.jpg` and `BearsEars_Energy-Resources-Map-JWirfs-Brock-web.jpg`
+	* National Map: Tribal Lands Over Time and Fossil Fuels - [`BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-print.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-web.jpg) and [`BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-print.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-web.jpg)
+	* Standing Rock Sioux and Dakota Access Pipeline - [`DAPL_Aerial-Map-JWirfs-Brock-print.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/DAPL_Aerial-Map-JWirfs-Brock-print.jpg) and [`DAPL_Aerial-Map-JWirfs-Brock-web.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/DAPL_Aerial-Map-JWirfs-Brock-web.jpg)
+	* Southern Ute and Oil and Gas Development - [`SouthernUte-Energy-Land-Map-JWirfs-Brock-print.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/SouthernUte-Energy-Land-Map-JWirfs-Brock-print.jpg) and [`SouthernUte-Energy-Land-Map-JWirfs-Brock-web.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/SouthernUte-Energy-Land-Map-JWirfs-Brock-web.jpg)
+	* Bears Ears National Monument - [`BearsEars_Energy-Resources-Map-JWirfs-Brock-print.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/BearsEars_Energy-Resources-Map-JWirfs-Brock-print.jpg) and [`BearsEars_Energy-Resources-Map-JWirfs-Brock-web.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/BearsEars_Energy-Resources-Map-JWirfs-Brock-web.jpg)
 
 
 ## How to print and fold your own map booklet
@@ -50,7 +50,7 @@ Check out [this post](https://www.opennotebook.co/notebooks/16) for a peek behin
 * **Natural gas pipelines** (interstate and intrastate) and **natural gas processing plants** are from the U.S. Energy Information Administration’s [energy mapping system](http://www.eia.gov/maps/layer_info-m.php). 
 * **Oil and gas wells** are from the Colorado Oil and Gas Conservation Commission’s wells database, available [here](http://cogcc.state.co.us/data2.html#/downloads)
 * **Land ownership** data is from the Bureau of Land Management, available [here](https://www.blm.gov/co/st/en/BLM_Programs/geographical_sciences/gis/GeospatialData.html)
-* **Major roads** and **local roads** are from the Colorado Department of Transportation, available (here)[http://dtdapps.coloradodot.info/otis/catalog]
+* **Major roads** and **local roads** are from the Colorado Department of Transportation, available [here](http://dtdapps.coloradodot.info/otis/catalog)
 
 ## Bears Ears National Monument and Utah land conflicts
 ### Data Sources
@@ -59,7 +59,7 @@ Check out [this post](https://www.opennotebook.co/notebooks/16) for a peek behin
 
 ## Contact
 
-This project was produced by Jordan Wirfs-Brock for Inside Energy. For more info about these maps, email jordanwb@gmail.com. For more information about the documentary, “Beyond Standing Rock,” visit [beyondstandingrock.org](http://beyondstandingrock.org).
+This project was produced by Jordan Wirfs-Brock for [Inside Energy](http://insideenergy.org). For more info about these maps, email jordanwb@gmail.com. For more information about the documentary, “Beyond Standing Rock,” visit [beyondstandingrock.org](http://beyondstandingrock.org).
 
 ## License
 
