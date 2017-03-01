@@ -1,3 +1,5 @@
+# A Data Compaion to *Beyond Standing Rock*
+
 "A Data Companion to *Beyond Standing Rock*" illuminates the intersection of geography, energy development and tribal sovereignty in the United States through a series of maps. 
 
 In this repository, you’ll find information about the data sources, relevant notes about the data, and links to downloads of the shape files (where available). You’ll also find a PDF version of the printable data companion, as well as standalone images of each of the data vignettes.
