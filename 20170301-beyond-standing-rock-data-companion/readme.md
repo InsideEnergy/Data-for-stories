@@ -4,7 +4,7 @@
 
 In this repository, you’ll find information about the data sources, relevant notes about the data, and links to downloads of the shape files (where available). You’ll also find a PDF version of the printable data companion, as well as standalone images of each of the data vignettes.
 
-* PDF of the full map booklet - `BSR-data-companion.pdf` [48 MB]
+* PDF of the full map booklet - [`BSR-data-companion.pdf`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/BSR-data-companion.pdf) [48 MB]
 * Images of the individual data vignettes in print quality (300 dpi) and web quality (72 dpi):
 	* National Map: Tribal Lands Over Time and Fossil Fuels - [`BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-print.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-print.jpg) and [`BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-web.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-web.jpg)
 	<img src="https://raw.githubusercontent.com/InsideEnergy/Data-for-stories/master/20170301-beyond-standing-rock-data-companion/BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-web.jpg" alt="A national map showing tribal lands and fossil fuel resources" width="200">
