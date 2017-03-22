@@ -10,10 +10,13 @@ In this repository, you’ll find information about the data sources, relevant n
 	<img src="https://raw.githubusercontent.com/InsideEnergy/Data-for-stories/master/20170301-beyond-standing-rock-data-companion/BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-web.jpg" alt="A national map showing tribal lands and fossil fuel resources" width="200">
 
 	* Standing Rock Sioux and Dakota Access Pipeline - [`DAPL_Aerial-Map-JWirfs-Brock-print.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/DAPL_Aerial-Map-JWirfs-Brock-print.jpg) and [`DAPL_Aerial-Map-JWirfs-Brock-web.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/DAPL_Aerial-Map-JWirfs-Brock-web.jpg)
-	<img src="https://raw.githubusercontent.com/InsideEnergy/Data-for-stories/master/20170301-beyond-standing-rock-data-companion/BSR_National-Map-Tribal-Lands-FossilFuels-JWirfs-Brock-web.jpg" alt="A national map showing tribal lands and fossil fuel resources" width="200">
+	<img src="https://raw.githubusercontent.com/InsideEnergy/Data-for-stories/master/20170301-beyond-standing-rock-data-companion/DAPL_Aerial-Map-JWirfs-Brock-web.jpg" alt="An aerial map of the Dakota Access Pipeline crossing of the Missouri River" width="200">
 
 	* Southern Ute and Oil and Gas Development - [`SouthernUte-Energy-Land-Map-JWirfs-Brock-print.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/SouthernUte-Energy-Land-Map-JWirfs-Brock-print.jpg) and [`SouthernUte-Energy-Land-Map-JWirfs-Brock-web.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/SouthernUte-Energy-Land-Map-JWirfs-Brock-web.jpg)
+	<img src="https://raw.githubusercontent.com/InsideEnergy/Data-for-stories/master/20170301-beyond-standing-rock-data-companion/SouthernUte-Energy-Land-Map-JWirfs-Brock-web.jpg" alt="Energy infrastructure on the Southern Ute Indian Reservation" width="200">
+
 	* Bears Ears National Monument - [`BearsEars_Energy-Resources-Map-JWirfs-Brock-print.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/BearsEars_Energy-Resources-Map-JWirfs-Brock-print.jpg) and [`BearsEars_Energy-Resources-Map-JWirfs-Brock-web.jpg`](https://github.com/InsideEnergy/Data-for-stories/raw/master/20170301-beyond-standing-rock-data-companion/BearsEars_Energy-Resources-Map-JWirfs-Brock-web.jpg)
+	<img src="https://raw.githubusercontent.com/InsideEnergy/Data-for-stories/master/20170301-beyond-standing-rock-data-companion/BearsEars_Energy-Resources-Map-JWirfs-Brock-web.jpg" alt="Land use, energy resources, and archaeological sites in and around the Bears Ears National Monument" width="200">
 
 
 ## How to print and fold your own map booklet
