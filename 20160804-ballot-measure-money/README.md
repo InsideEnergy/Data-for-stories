@@ -1,6 +1,6 @@
 # Colorado Oil and Gas Issue Committee Contributions and Expenditures
 
-This repository contains information on contributions and spending for the issue committees supporting Colorado's proposed oil and gas ballot initiatives, 75 and 78, in the 2016 election cycle. This data was used in the Inside Energy story, ['Why Everyone in Colorado is Fighting Over Your Signature'](TK-link), and video, ['Money And The Fight Over Your Signature'](https://www.youtube.com/watch?v=-lrtJCAxE-M&feature=youtu.be).
+This repository contains information on contributions and spending for the issue committees supporting Colorado's proposed oil and gas ballot initiatives, 75 and 78, in the 2016 election cycle. This data was used in the Inside Energy story, ['Why Everyone in Colorado is Fighting Over Your Signature'](http://insideenergy.org/2016/08/05/why-everyone-in-colorado-is-fighting-over-your-signature/), and video, ['Money And The Fight Over Your Signature'](https://www.youtube.com/watch?v=-lrtJCAxE-M&feature=youtu.be).
 
 ### What's in this folder?
 
