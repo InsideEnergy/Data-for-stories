@@ -6,7 +6,7 @@ The Data Battery is where we store the data that powers our reporting.
 
 This repo contains all datasets used in Inside Energy's stories, except for major projects. To see data used in our major projects, please [visit our main page](https://github.com/InsideEnergy).
 
-If you have questions, comments, or (especially) suggestions about how to make our repository better or about how we can improve our transparency, please contact Jordan Wirfs-Brock, at JordanWirfs-Brock@rmpbs.org.
+If you have questions, comments, or (especially) suggestions about how to make our repository better or about how we can improve our transparency, please contact Alisa Barba, at alisabarba@rmpbs.org.
 
 Date | Story Title | GitHub Folder
 ---------|-----|-----
@@ -39,3 +39,5 @@ November 21, 2014 | [IE Questions: Private Versus Public Oil And Gas](http://ins
 September 15, 2014 | [America’s Most Dangerous Jobs](http://insideenergy.org/2014/09/15/deadliest-catch/) | [`20140915-workplace-fatalities`](/20140915-workplace-fatalities)
 September 15, 2014 | [Dark Side Of The Boom: How Dangerous Is Too Dangerous?](http://insideenergy.org/2014/09/15/dark-side-of-the-boom-how-dangerous-is-too-dangerous/) | [`20140915-mining-worker-fatalities`](/20140915-mining-worker-fatalities)
 August 22, 2014 | [Rooftop Solar: The Next iPod?](http://insideenergy.org/2014/08/22/rooftop-solar-the-next-ipod/) | [`20140822-solar-installations`](/20140822-solar-installations)
+
+This was created by Jordan Wirfs-Brock and Catherine Roberts for Inside Energy
