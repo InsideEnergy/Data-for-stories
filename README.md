@@ -10,6 +10,8 @@ If you have questions, comments, or (especially) suggestions about how to make o
 
 Date | Story Title | GitHub Folder
 ---------|-----|-----
+May 3, 2017 | [Colorado Governor Orders Review Of All Oil And Gas Operations](http://insideenergy.org/2017/05/02/colorado-governor-orders-review-of-all-oil-and-gas-operations/) | [`20170503-populated-areas-and-wells`](/20170503-populated-areas-and-wells)
+April 6, 2017 | [Filling In The Natural Gas Gaps](http://insideenergy.org/2017/04/06/filling-in-the-natural-gas-gaps/) | [`20170406-rural-nat-gas`](/20170406-rural-nat-gas)
 March 1, 2017 | [Beyond Standing Rock Data Companion](http://beyondstandingrock.org) | [`20170301-beyond-standing-rock-data-companion`](/220170301-beyond-standing-rock-data-companion)
 August 30, 2016 | [IE Questions: Is A Petroleum Engineering Degree A Good Idea?](http://insideenergy.org/2016/08/29/ie-questions-is-a-petroleum-engineering-degree-a-good-idea) | [`20160830-oil-prices-and-jobs`](/20160830-oil-prices-and-jobs)
 August 4, 2016 | [Why Everyone In Colorado Is Fighting Over Your Signature](http://insideenergy.org/2016/08/05/why-everyone-in-colorado-is-fighting-over-your-signature/) | [`20160804-ballot-measure-money`](/20160804-ballot-measure-money)
