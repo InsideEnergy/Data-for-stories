@@ -2,7 +2,7 @@
 
 This repository explains the methods Inside Energy used to determine how many Coloradoans are living in areas with a high density of wells. We used this method to do analysis for the story, ["Colorado Governor Orders Review Of All Oil And Gas Operations"](http://insideenergy.org/2017/05/02/colorado-governor-orders-review-of-all-oil-and-gas-operations/). Our earlier investigation into the issue of [housing developements encroaching into historical oil and gas areas](http://insideenergy.org/2016/02/09/living-on-top-of-forgotten-oil-and-gas-wells/) used a similar analysis, and you can see those results [here](http://insideenergy.org/2016/02/09/where-people-meet-oil-and-gas-a-colorado-story-in-3-maps/).
 
-[INSERT ANIMATED GIF]
+![Animated gif of neighborhood where home explosion ocurred from 1999 to 2015](https://raw.githubusercontent.com/InsideEnergy/Data-for-stories/master/20170503-populated-areas-and-wells/images/Twilight-Ave-Images/twilight-ave-timelapse-slowed-small.gif)
 
 ## Overview
 We wanted to answer the question, "How many people in Colorado live in areas with a lot of oil and gas development, and how has that number changed over time?" To do this, we identified geographic areas that were both a) densely populated, which we defined as more than 500 people per square kilometer, and b) dense with wells, which we defined as more than 1 well per square kilometer. We then looked at how the number of people living in those zones changed over time.
@@ -46,7 +46,7 @@ Here is a high-level description of our methods, which we repeated for both 2010
 
 We then filtered for census tracts that had both a well density greater than 1 / square kilomter and a population density greater than 500 / square kilometer. For the front range, those regions are shown below, in yellow:
 
-[INSERT IMAGE]
+![Areas dense with people and wells](https://raw.githubusercontent.com/InsideEnergy/Data-for-stories/master/20170503-populated-areas-and-wells/images/2010-2015-high-density-areas.gif)
 
 We found that in 2015, there were **177,622 people** living in these densely populated, high oil and gas activity zones, compared to **127,110** in 2010.
 
