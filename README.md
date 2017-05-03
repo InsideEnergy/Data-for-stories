@@ -40,4 +40,4 @@ September 15, 2014 | [America’s Most Dangerous Jobs](http://insideenergy.org/2
 September 15, 2014 | [Dark Side Of The Boom: How Dangerous Is Too Dangerous?](http://insideenergy.org/2014/09/15/dark-side-of-the-boom-how-dangerous-is-too-dangerous/) | [`20140915-mining-worker-fatalities`](/20140915-mining-worker-fatalities)
 August 22, 2014 | [Rooftop Solar: The Next iPod?](http://insideenergy.org/2014/08/22/rooftop-solar-the-next-ipod/) | [`20140822-solar-installations`](/20140822-solar-installations)
 
-This was created by Jordan Wirfs-Brock and Catherine Roberts for Inside Energy
+This was created by Jordan Wirfs-Brock and Catherine Roberts for Inside Energy. Last updated 4/6/2017.
