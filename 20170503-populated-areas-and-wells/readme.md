@@ -63,9 +63,9 @@ Inside Energy also made time-series images that show suburban development in for
 
 ### Locations
 
-The **North Thortnon** location is the intersection of E 128th Ave and Quebec St.
+The **North Thortnon** location is the intersection of E 128th Ave and Quebec St. [View full screen](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=4adc995a-304e-11e7-a6aa-0edaf8f81e27)_
 
-The **West Greeley** locdation is around Miliken Rd/65th south of W 28th St.
+The **West Greeley** location is Miliken Rd/65th south of W 28th St. [View full screen](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3b2c65f2-3054-11e7-a6aa-0edaf8f81e27)
 
 The **Firestone** location (animated gif) is at 6312 Twilight Ave, which is the location of the April 2017 home explosion.
 
