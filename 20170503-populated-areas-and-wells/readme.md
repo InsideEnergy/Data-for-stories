@@ -29,7 +29,7 @@ Relevant field names 2015 file:
 * ACS_15_5_3 - ACS population estimate
 * ACS_15_5_4 - ACS margin of error
 
-This respositiory also includes images of the neighborhood where the April 17, 2017 home explosion in Firestone occurred, with an overlay of well locations, dating from 1999 to 2015, as well as an animated gif showing the expansion of homes. These are in the images --> Twilight-Ave-Images folder.
+This respositiory also includes images of the neighborhood where the April 17, 2017 home explosion in Firestone occurred, with an overlay of well locations, dating from 1999 to 2015, as well as an animated gif showing the expansion of homes. These are in the images --> Twilight-Ave-Images folder. Time-series images of other high-growth areas are in Greeley and Thornton are also included.
 
 ## Data Sources
 * **Oil and gas wells** - Colorado Oil and Gas Conservation Commission's (COGCC) [database of oil and gas well surface locations](http://cogcc.state.co.us/data2.html#/downloads)
@@ -56,6 +56,22 @@ We also looked at the number of people living in all high oil and gas activity z
 
 
 *Note: Inside Energy did a similar analysis looking at the time period from 1990 to 2010. Note that in that analysis, we used decennial census data as opposed to ACS. In that analysis, we found that in 2010, 150,993 people live in dense oil and gas zones. It makes sense that this number would be higher than our ACS number, because the ACS data covers a 5-year period from 2006 to 2010.*
+
+## Aerial Images
+
+Inside Energy also made time-series images that show suburban development in former oil and gas areas, which you can view in this article, [Fatal Home Explosion In Colorado Reignites Setback Debate](http://insideenergy.org/2017/05/05/fatal-home-explosion-in-colorado-reignites-setback-debate/).
+
+### Locations
+
+The **North Thortnon** location is the intersection of E 128th Ave and Quebec St.
+
+The **West Greeley** locdation is around Miliken Rd/65th south of W 28th St.
+
+The **Firestone** location (animated gif) is at 6312 Twilight Ave, which is the location of the April 2017 home explosion.
+
+### Tools and Data
+
+Inside Energy used Knight Lab's [JuxtaposeJS](https://juxtapose.knightlab.com/) tool, Google Earth Pro, and the COGCC wells database.
 
 
 ## Contact
