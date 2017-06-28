@@ -15,15 +15,17 @@ _Tools we used for this project: Python with Jupyter and pandas; QGIS with Point
 ## What's in this repository?
 
 In this repository, you'll find:
-* A Jupyter notebook with the Python code we used to clean the data before we created the flow line shape files
-* The cleaned start and end point location file
-* A flow line info lookup file
+* [COGCC-flowlines.ipynb](COGCC-flowlines.ipynb) - A Jupyter notebook with the Python code we used to clean the data before we created the flow line shape files
+* [All_Start_End.csv](All_Start_End.csv) - The cleaned start and end point location file
+* [All_Flowline_Info.csv](All_Flowline_Info.csv) - The flow line info lookup file
+* [flowlines-info-length.zip](flowlines-info-length.zip) - The final shape files, zipped
+* [Flowline](Flowline) - The original download from the COGCC (download date: June 27, 2017), unzipped containing .xls file and data dictionary (note: we removed the .mdb file).
 
 ## Basic method
 
 Here are the rough steps we used to clean and map the data:
 1. Clean and prepare data with Python/pandas (format, remove irregular/missing data points). View the full method and code [here](COGCC-flowlines.ipynb).
 2. Import into QGIS and use Points2One plugin to draw straight lines between the start and end points. Calculate length of each line.
-3. Map in Carto, filter out flow lines longer than 1500m
+3. Map in Carto, filter out flow lines longer than 1500m.
 
 By Jordan Wirfs-Brock for Inside Energy. Questions or comments? Contact jordanwb@gmail.com.
