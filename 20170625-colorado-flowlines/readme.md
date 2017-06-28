@@ -1,12 +1,12 @@
 # Mapping the Start/End Points of Colorado Oil and Gas Flowlines
 
-This repository contains the data, methods and code Inside Energy used to create an interactive map of the start/end points of Colorado oil and gas flowline locations. You can view the completed map and read the accompanying web article [here]().
+This repository contains the data, methods and code Inside Energy used to create an interactive map of the start/end points of Colorado oil and gas flowline locations. You can view the [completed map](https://jordanwb.carto.com/viz/546dd09b-f711-4729-a4b4-eb9dca4dcf99/public_map) and read the accompanying web article [here](insideenergy.org).
 
 ## About
 
 In the wake of a home explosion in Fireston, Colorado, Governor Hickenlooper requested that all oil and gas operators submit the locations of flowlines that are within 1000 ft. of buildings. On June 27, 2017, the Colorado Oil and Gas Conservation Commission made the start/end points of oil and gas flowlines available for the first time.
 
-Here is the original dataset, available for download from COGCC: [Flowline Inventory](https://cogcc.state.co.us/documents/data/downloads/Engineering/flowline/FlowlineDownload.html)
+The original dataset is available for download from COGCC: [Flowline Inventory](https://cogcc.state.co.us/documents/data/downloads/Engineering/flowline/FlowlineDownload.html)
 
 The data contains the start and end locations of different types of flowlines: process piping, wellsite flowlines, dump lines, etc. It does not include the actual routes of the flowlines. We played around with a few ways to visualize this data on a map, including just showing the point locations of the start and end of each line. Ultimately, Inside Energy decided to show a line connecting the start and end points. Note that this does not indicate the exact flowline route. However, we felt that this was the most useful way to quickly and visually identify where the flowlines are.
 
