@@ -1,10 +1,10 @@
-# Mapping the Start/End Points of Colorado Oil and Gas Flow Lines
+# Mapping the Start/End Points of Colorado Oil and Gas Flowlines
 
-This repository contains the data, methods and code Inside Energy used to create an interactive map of the start/end points of Colorado oil and gas flow line locations. You can view the completed map and read the accompanying web article [here]().
+This repository contains the data, methods and code Inside Energy used to create an interactive map of the start/end points of Colorado oil and gas flowline locations. You can view the completed map and read the accompanying web article [here]().
 
 ## About
 
-In the wake of a home explosion in Fireston, Colorado, Governor Hickenlooper requested that all oil and gas operators submit the locations of flow lines that are within 1000 ft. of buildings. On June 27, 2017, the Colorado Oil and Gas Conservation Commission made the start/end points of oil and gas flow lines available for the first time.
+In the wake of a home explosion in Fireston, Colorado, Governor Hickenlooper requested that all oil and gas operators submit the locations of flowlines that are within 1000 ft. of buildings. On June 27, 2017, the Colorado Oil and Gas Conservation Commission made the start/end points of oil and gas flowlines available for the first time.
 
 Here is the original dataset, available for download from COGCC: [Flowline Inventory](https://cogcc.state.co.us/documents/data/downloads/Engineering/flowline/FlowlineDownload.html)
 
@@ -15,9 +15,9 @@ _Tools we used for this project: Python with Jupyter and pandas; QGIS with Point
 ## What's in this repository?
 
 In this repository, you'll find:
-* [COGCC-flowlines.ipynb](COGCC-flowlines.ipynb) - A Jupyter notebook with the Python code we used to clean the data before we created the flow line shape files
+* [COGCC-flowlines.ipynb](COGCC-flowlines.ipynb) - A Jupyter notebook with the Python code we used to clean the data before we created the flowline shape files
 * [All_Start_End.csv](All_Start_End.csv) - The cleaned start and end point location file
-* [All_Flowline_Info.csv](All_Flowline_Info.csv) - The flow line info lookup file
+* [All_Flowline_Info.csv](All_Flowline_Info.csv) - The flowline info lookup file
 * [flowlines-info-length.zip](flowlines-info-length.zip) - The final shape files, zipped
 * [Flowline](Flowline) - The original download from the COGCC (download date: June 27, 2017), unzipped containing .xls file and data dictionary (note: we removed the .mdb file).
 
@@ -26,6 +26,6 @@ In this repository, you'll find:
 Here are the rough steps we used to clean and map the data:
 1. Clean and prepare data with Python/pandas (format, remove irregular/missing data points). View the full method and code [here](COGCC-flowlines.ipynb).
 2. Import into QGIS and use Points2One plugin to draw straight lines between the start and end points. Calculate length of each line.
-3. Map in Carto, filter out flow lines longer than 1500m.
+3. Map in Carto, filter out flowlines longer than 1500m.
 
 By Jordan Wirfs-Brock for Inside Energy. Questions or comments? Contact jordanwb@gmail.com.
