@@ -1,6 +1,6 @@
 # Mapping the Start/End Points of Colorado Oil and Gas Flowlines
 
-This repository contains the data, methods and code Inside Energy used to create an interactive map of the start/end points of Colorado oil and gas flowline locations. You can view the [completed map](https://jordanwb.carto.com/viz/546dd09b-f711-4729-a4b4-eb9dca4dcf99/public_map) and read the accompanying web article [here](insideenergy.org).
+This repository contains the data, methods and code Inside Energy used to create an interactive map of the start/end points of Colorado oil and gas flowline locations. You can view the [completed map](https://jordanwb.carto.com/viz/546dd09b-f711-4729-a4b4-eb9dca4dcf99/public_map) and read the accompanying web article [here](http://insideenergy.org/2017/06/28/mapping-colorados-invisible-pipeline-network/).
 
 ## About
 
