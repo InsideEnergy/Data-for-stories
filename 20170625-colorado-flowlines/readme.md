@@ -4,7 +4,7 @@ This repository contains the data, methods and code Inside Energy used to create
 
 ## About
 
-In the wake of a home explosion in Fireston, Colorado, Governor Hickenlooper requested that all oil and gas operators submit the locations of flowlines that are within 1000 ft. of buildings. On June 27, 2017, the Colorado Oil and Gas Conservation Commission made the start/end points of oil and gas flowlines available for the first time.
+In the wake of a home explosion in Firestone, Colorado, Governor Hickenlooper requested that all oil and gas operators submit the locations of flowlines that are within 1000 ft. of buildings. On June 27, 2017, the Colorado Oil and Gas Conservation Commission made the start/end points of oil and gas flowlines available for the first time.
 
 The original dataset is available for download from COGCC: [Flowline Inventory](https://cogcc.state.co.us/documents/data/downloads/Engineering/flowline/FlowlineDownload.html)
 
